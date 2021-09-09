@@ -7,7 +7,7 @@ require('dotenv').config();
 const sequelize = process.env.JAWSDB_URL
   ? new Sequelize(process.env.JAWSDB_URL)
   : new Sequelize(process.env.DB_NAME, process.env.DB_USER, process.env.DB_PW, {
-      host: 's465z7sj4pwhp7fn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+      host: 'pfw0ltdr46khxib3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com.amazonaws.com',
       dialect: 'mysql',
       port: 3306
     });
