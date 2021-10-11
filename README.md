@@ -20,7 +20,7 @@ Finally, an app that allows instructors to quickly create quizzes and print the 
 | Gaye Proctor | [gayebroni](https://github.com/gayebroni) | About Me, Presentation, Documentation, Sample Questions for Seed, Came Up with the name "Quizam" |
 
 ## Live Site 
-To use this project, go to the live site [here](https://quizam.herokuapp.com/)!
+To use this project, go to the live site [here] (https://quizam-project2.herokuapp.com/)!
 
 ## Using This Project
 To use this project in your own project...
