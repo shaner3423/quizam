@@ -40,7 +40,7 @@ Then, make some edits in a new branch and submit a PR. It’ll be merged to our 
 **Please be sure to give us credit by linking back to our repo!!**
 
 ## Questions
-Reach out to the repo owner, EmilyNecciai at enmayeski@gmail.com.
+Reach out to the repo owner, EmilyNecciai at scrisostomo17@gmail.com.
 
 
 
